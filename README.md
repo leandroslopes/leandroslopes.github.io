@@ -1,5 +1,6 @@
 <h1 align="center">
-  💻<br>Meu Portfólio [![](https://img.shields.io/badge/building_-2ea44f)](https://)
+  💻<br>Meu Portfólio 
+  <img src="https://img.shields.io/badge/-building-2ea44f?style=for-the-badge&logoColor=FFFFFF" />
 </h1>
 
 <h4 align="center">
