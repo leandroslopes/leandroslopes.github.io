@@ -20,22 +20,18 @@ hoverChangeDescription(
   "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma."
 );
 hoverChangeDescription(
-  ".sass",
-  "Sass (pré-processador css) é uma linguagem de folhas de estilo. É uma simples linguagem de script usada em arquivos Sass."
+  ".vue",
+  "Vue é um framework JavaScript para construir interfaces de usuário. Ele se baseia em HTML, CSS e JavaScript padrão e fornece um modelo de programação declarativo e baseado em componentes que ajuda a desenvolver interfaces de usuário com eficiência, sejam elas simples ou complexas."
 );
 hoverChangeDescription(
-  ".react",
-  "ReactJS é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web."
-);
-hoverChangeDescription(
-  ".next",
-  "Next.js é uma estrutura da web que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para web baseados em React."
-);
-hoverChangeDescription(
-  ".styled",
-  "Styled Components é uma biblioteca que utiliza o conceito de CSS-in-JS, ou seja, que nos permite escrever códigos CSS dentro do Javascript."
+  ".vuetify",
+  "Vuetify é uma biblioteca de interface do usuário Vue com componentes de material lindamente artesanais. Não são necessárias habilidades de design - tudo o que você precisa para criar aplicativos incríveis está ao seu alcance."
 );
 hoverChangeDescription(
   ".tailwind",
   "Tailwind CSS é um framework desenvolvido para maximizar o potencial do bom e velho CSS e levá-lo ainda mais longe."
+);
+hoverChangeDescription(
+  ".php",
+  "PHP é uma linguagem de script de uso geral popular que é especialmente adequada para desenvolvimento web. Rápido, flexível e pragmático, o PHP potencializa tudo, desde seu blog até os sites mais populares do mundo."
 );
