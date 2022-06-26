@@ -7,7 +7,7 @@
   Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha carreira.
 </h4>
 
-![Resultado final do projeto](assets/image/preview.png)
+<!-- ![Resultado final do projeto](assets/image/preview.png) -->
 
 <h4 align="center">
   <a href="https://leandroslopes.github.io/" target="_blank">
