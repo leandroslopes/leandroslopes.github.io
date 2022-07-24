@@ -1,6 +1,6 @@
 <h1 align="center">
   💻<br>Meu Portfólio 
-  <img src="https://img.shields.io/badge/-building-2ea44f?style=for-the-badge&logoColor=FFFFFF" />
+  <!-- <img src="https://img.shields.io/badge/-building-2ea44f?style=for-the-badge&logoColor=FFFFFF" /> -->
 </h1>
 
 <h4 align="center">
@@ -10,7 +10,7 @@
 <!-- ![Resultado final do projeto](assets/image/preview.png) -->
 
 <h4 align="center">
-  <a href="https://leandroslopes.github.io/" target="_blank">
+  <a href="https://leandroslopes.github.io/" target="_blank" rel="noopener noreferrer">
     Clique para visitar o projeto
   </a>
 </h4>
