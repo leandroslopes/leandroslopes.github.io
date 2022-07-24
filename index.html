@@ -51,13 +51,15 @@
     <header>
       <div class="grid-layout">
         <nav>
-          <a href="./">
-            <img
+          <a href="./" id="logo">
+            <span>LEANDRO</span>
+            <span id="logo-dev">DEV</span>
+            <!-- <img
               src="assets/image/logo-leandrodev.svg"
               alt=""
               width="150px"
               height="25px"
-            />
+            /> -->
           </a>
           <div class="mobile-menu">
             <div class="line1"></div>
@@ -93,17 +95,25 @@
                 </span>
               </h1>
               <a
-                href="https://www.linkedin.com/in/programmer-leandrolopes/"
+                href="https://www.linkedin.com/in/programmer-leandrolopes"
                 rel="noopener"
                 target="_blank"
                 class="delayExtraBigReveal"
               >
                 LinkedIn
               </a>
+              <a
+                href="https://github.com/leandroslopes"
+                rel="noopener"
+                target="_blank"
+                class="delayExtraBigReveal"
+              >
+                GitHub
+              </a>
             </div>
             <div id="home-container-photo">
               <div id="home-photo">
-                <img
+                <!-- <img
                   src="assets/image/logo-svg-lab.svg"
                   alt="Logo leandroslopes"
                   onload="SVGInject(this)"
@@ -111,7 +121,12 @@
                   class="object"
                   width="500px"
                   height="500px"
-                />
+                /> -->
+                <img src="assets/image/coffee.webp" 
+                alt="Coffee"
+                id="logo-lab"
+                class="object"
+                >
               </div>
             </div>
           </div>
@@ -123,44 +138,18 @@
           <div id="about">
             <div id="about-photo">
               <img
-                src="assets/image/leandrodev.svg"
+                src="assets/image/profile.png"
                 width="400px"
                 height="400px"
                 alt="ilustração do leandroslopes"
                 class="delayMediumReveal"
                 id="photo-leandrodev"
               />
-              <div class="about-figure figure-one icon-one delayExtraBigReveal">
-                <img
-                  src="assets/icons/html-cor.svg"
-                  width="45px"
-                  height="45px"
-                  alt="ícone html"
-                />
-              </div>
-              <div class="about-figure figure-two icon-two delayExtraBigReveal">
-                <img
-                  src="assets/icons/css-cor.svg"
-                  width="45px"
-                  height="45px"
-                  alt="ícone css"
-                />
-              </div>
-              <div
-                class="about-figure figure-three icon-three delayExtraBigReveal"
-              >
-                <img
-                  src="assets/icons/js-cor.svg"
-                  width="45px"
-                  height="45px"
-                  alt="ícone javascript"
-                />
-              </div>
             </div>
             <article id="about-text">
               <h2 class="delaySmallReveal">Quem sou <span>.</span></h2>
               <p class="delayMediumReveal">
-                Meu nome é Leandro S Lopes, ou “leandrodev”. Sou Software Developer. 
+                Meu nome é Leandro S Lopes, ou “leandro dev”. Sou Software Developer. 
                 Desenvolvo sistemas e sites com interfaces modernas e de alta qualidade, 
                 concentrado em performance, animações, responsividade e SEO.
               </p>
@@ -199,8 +188,9 @@
             rel="noopener"
             target="_blank"
             class="delayExtraBigReveal"
-            >Repositórios no GitHub</a
-          >
+            >
+            Repositórios no GitHub
+          </a> <span>&#128072;</span> 
         </div>
       </section>
 

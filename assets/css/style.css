@@ -377,6 +377,8 @@ header .grid-layout nav .nav-list li a:hover {
   left: 50%;
   -webkit-transform: translate(-50%, -40%);
           transform: translate(-50%, -40%);
+  margin: 80px 0 0 0;
+  border: 3px dashed #e9be49;
 }
 
 @media screen and (max-width: 992px) {
@@ -625,13 +627,13 @@ header .grid-layout nav .nav-list li a:hover {
 
 #s-about .grid-layout #about-text h2 {
   padding-bottom: 24px;
-  color: #e9be49;
+  color: #fafafa;
   font-size: 4rem;
   font-weight: 500;
 }
 
 #s-about .grid-layout #about-text h2 span {
-  color: #fafafa;
+  color: #e9be49 ;
   font-size: 64px;
 }
 
@@ -656,13 +658,13 @@ header .grid-layout nav .nav-list li a:hover {
 
 #s-projects .grid-layout h2 {
   padding-bottom: 24px;
-  color: #e9be49;
+  color: #fafafa;
   font-size: 4rem;
   font-weight: 500;
 }
 
 #s-projects .grid-layout h2 span {
-  color: #fafafa;
+  color: #e9be49;
   font-size: 64px;
 }
 
@@ -1118,3 +1120,28 @@ footer .grid-layout div img {
   margin: 0 auto;
 }
 /*# sourceMappingURL=style.css.map */
+
+/* MY STYLES */
+#logo {
+  color: #ffffff;
+  font-size: 2.35rem;
+  font-weight: bolder;
+}
+
+#logo-dev {
+  color: #e9be49;
+  font-weight: 100 !important;
+}
+
+#s-projects .grid-layout a {
+  font-size: 3rem;
+}
+
+#s-projects .grid-layout span {
+  font-size: 3.2rem;
+}
+
+#about-text p {
+  padding: 1rem;
+  border: 0.3rem dashed #e9be49;
+}
